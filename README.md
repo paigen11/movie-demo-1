@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Project Details
 
-This is the first demo created for the conference talk: "Responsive Web Design with ReactJS." It demonstrates how a non-responsive ReactJS movie database website results in a less than stellar user experience at anything besides the desktop-sized application.
+This is the first demo created for the conference talk: "Responsive Web Design with ReactJS." It demonstrates how a non-responsive ReactJS movie database website results in a less than stellar user experience at anything besides a desktop-sized application. 
 
 ## Technologies of Note Powering This App
 
