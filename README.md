@@ -6,7 +6,7 @@ A live demo of this site is available [here](movie-demo-1.paigen11.now.sh).
 
 ## Project Details
 
-This is the first demo created for the conference talk: "Responsive Web Design with ReactJS." It demonstrates how a non-responsive ReactJS movie database website results in a less than stellar user experience at anything besides a desktop-sized application. 
+This is the first demo created for the conference talk: ["Responsive Web Design with ReactJS"](https://drive.google.com/open?id=1Nk91wj1h0Y8PjlKnicuw7LMDKqES9NUF). It demonstrates how a non-responsive ReactJS movie database website results in a less than stellar user experience at anything besides a desktop-sized application. 
 
 ## Technologies of Note Powering This App
 
